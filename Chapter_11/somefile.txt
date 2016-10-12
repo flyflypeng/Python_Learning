@@ -1,0 +1,2 @@
+I shall return to this point in the next chapter
+In this example we maintain only one copy of the data
